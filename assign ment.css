@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.warning {
+    color: red;
+}
+
+body {
+    margin: 0px;
+    font-family: "Roboto";
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    padding: 40px;
+    border: solid black 2px;
+
+}
+
+.bg {
+    height: 100vh;
+}
+
+.input {
+    width: 400px;
+}
+
+
+/* Tooltip container */
+.toolti {
+    position: relative;
+    display: inline-block;
+
+    /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.toolti .tooltiptex {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.toolti .tooltiptex::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.toolti:hover .tooltiptex {
+    visibility: visible;
+    opacity: 1;
+}
+
+.pop1 {
+    border: 1px solid gray;
+    font-size: 10px;
+    height: 100vh;
+
+}
+
+.pop-head {
+    font-size: 30px;
+}
+
+.p1 {
+    font-weight: 900;
+    font-size: 30px;
+}
