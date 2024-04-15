@@ -1,3 +1,5 @@
+![WhatsApp Image 2024-04-15 at 10 19 28_2110bf83](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/d20b7f6a-624a-46a5-91b2-c7e0369713dc)
+![WhatsApp Image 2024-04-15 at 10 18 52_a5003395](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/741c3097-2086-435b-b308-1f86e0a84e4b)
 *Tax Calculator Web Application*
 
 This is a web application designed as part of the Fyle Web Development Internship Challenge. The application allows users to calculate their taxes based on their income, age, and deductions.
