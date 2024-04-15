@@ -1,5 +1,26 @@
+![IMG-20240415-WA0013](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/ccda28f2-87aa-4e1a-971e-0bd49236acf5)
+![IMG-20240415-WA0012](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/79dbf96e-b61e-4f33-9b48-b6ad62151cd4)
+![IMG-20240415-WA0011](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/14085a04-f616-4753-b8db-7fd1ab3d8742)
+![IMG-20240415-WA0010](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/37b0ed27-5968-4ffa-ac66-98e2a5ec7518)
+![IMG-20240415-WA0009](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/557105d7-eac6-46f6-b6b4-018310744cff)
+![IMG-20240415-WA0008](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/db2e62c6-d467-4a6d-9909-6d0b99fc377f)
+![IMG-20240415-WA0007](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/993bedc8-dd6c-47c3-bd49-97cef4fbf37d)
+![IMG-20240415-WA0006](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/7bb99ff8-a6f1-483f-93b9-7f79049a5335)
+![IMG-20240415-WA0005](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/785c47d7-603a-44a8-863b-aeeb2c5127a4)
+![IMG-20240415-WA0004](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/3959f579-6a2e-4667-886d-f2e0f4d10890)
+![IMG-20240415-WA0003](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/276dde3b-1369-4dd0-bf2c-fc322ecd94e8)
+![IMG-20240415-WA0002](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/433174c7-ec7f-4427-9abc-3ba0aa6354fe)
 ![WhatsApp Image 2024-04-15 at 10 19 28_2110bf83](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/d20b7f6a-624a-46a5-91b2-c7e0369713dc)
 ![WhatsApp Image 2024-04-15 at 10 18 52_a5003395](https://github.com/saikrishnaCherukuthota/Project/assets/163493434/741c3097-2086-435b-b308-1f86e0a84e4b)
+
+
+
+
+
+
+
+
+
 *Tax Calculator Web Application*
 
 This is a web application designed as part of the Fyle Web Development Internship Challenge. The application allows users to calculate their taxes based on their income, age, and deductions.
